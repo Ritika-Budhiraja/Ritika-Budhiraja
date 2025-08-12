@@ -53,15 +53,13 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 [![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,figma,postman)](https://github.com/Ritika-Budhiraja)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ritika-Budhiraja&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=10)<br/>
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ritika-Budhiraja&theme=radical&hide_border=false&border_radius=10)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=architj6&theme=radical&hide_border=false&include_all_commits=true&border_radius=10&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Budhiraja&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐍 Watch a snake eating my contribution graph
+<!-- <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1> -->
+## Watch a 🐍 eating my contribution graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritika-Budhiraja/Ritika-Budhiraja/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
+  <img src="github-contribution-grid-snake.svg" alt="snake"></center>
+</p> 
